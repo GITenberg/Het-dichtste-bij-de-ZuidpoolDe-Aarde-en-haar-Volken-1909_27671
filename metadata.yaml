@@ -1,0 +1,31 @@
+_repo: Het-dichtste-bij-de-ZuidpoolDe-Aarde-en-haar-Volken-1909_27671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shackleton, Ernest Henry, Sir
+    alias: Shackleton, E. H. (Ernest Henry), Sir
+    birthdate: 1874
+    deathdate: 1922
+    gutenberg_agent_id: '1734'
+    url: http://www.gutenberg.org/2009/agents/1734
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Shackleton
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27671'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antarctica -- Discovery and exploration -- British'
+- !lcsh 'British Antarctic Expedition (1907-1909)'
+- !lcc 'G'
+title: 'Het dichtste bij de Zuidpool
+
+  De Aarde en haar Volken, 1909'
+url: http://www.gutenberg.org/ebooks/27671
