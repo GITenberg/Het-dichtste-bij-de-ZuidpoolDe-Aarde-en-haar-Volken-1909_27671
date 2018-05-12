@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1734
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Shackleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27671#Het-dichtste-bij-de-ZuidpoolDe-Aarde-en-haar-Volken-1909
 gutenberg_issued: '2008-12-31'
 gutenberg_type: Text
 identifiers:
